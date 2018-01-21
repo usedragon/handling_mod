@@ -10522,7 +10522,7 @@
       <fBrakeForce value="0.480000" />
       <fBrakeBiasFront value="0.600000" />
       <fHandBrakeForce value="1.200000" />
-      <fSteeringLock value="14.800000" />
+      <fSteeringLock value="13.500000" />
       <fTractionCurveMax value="1.980000" />
       <fTractionCurveMin value="1.940000" />
       <fTractionCurveLateral value="20.000000" />
@@ -10565,7 +10565,7 @@
           <fMaxBankAngle value="38.000000" />
           <fFullAnimAngle value="38.000000" />
           <fDesLeanReturnFrac value="0.235000" />
-          <fStickLeanMult value="2.000000" />
+          <fStickLeanMult value="2.200000" />
           <fBrakingStabilityMult value="-1.000000" />
           <fInAirSteerMult value="-2.500000" />
           <fWheelieBalancePoint value="10.000000" />
@@ -10834,7 +10834,7 @@
       <fBrakeForce value="0.330000" />
       <fBrakeBiasFront value="0.600000" />
       <fHandBrakeForce value="1.150000" />
-      <fSteeringLock value="19.000000" />
+      <fSteeringLock value="17.000000" />
       <fTractionCurveMax value="2.160000" />
       <fTractionCurveMin value="2.080000" />
       <fTractionCurveLateral value="22.500000" />
@@ -10913,7 +10913,7 @@
       <fBrakeForce value="0.390000" />
       <fBrakeBiasFront value="0.600000" />
       <fHandBrakeForce value="1.200000" />
-      <fSteeringLock value="18.000000" />
+      <fSteeringLock value="16.000000" />
       <fTractionCurveMax value="1.980000" />
       <fTractionCurveMin value="1.940000" />
       <fTractionCurveLateral value="20.000000" />
@@ -10956,7 +10956,7 @@
           <fMaxBankAngle value="38.000000" />
           <fFullAnimAngle value="38.000000" />
           <fDesLeanReturnFrac value="0.235000" />
-          <fStickLeanMult value="1.300000" />
+          <fStickLeanMult value="1.500000" />
           <fBrakingStabilityMult value="-1.000000" />
           <fInAirSteerMult value="-0.600000" />
           <fWheelieBalancePoint value="10.000000" />
@@ -10991,7 +10991,7 @@
       <fBrakeForce value="0.410000" />
       <fBrakeBiasFront value="0.600000" />
       <fHandBrakeForce value="1.200000" />
-      <fSteeringLock value="18.700000" />
+      <fSteeringLock value="15.700000" />
       <fTractionCurveMax value="2.150000" />
       <fTractionCurveMin value="2.130000" />
       <fTractionCurveLateral value="22.500000" />
@@ -11033,7 +11033,7 @@
           <fLeanBakForceMult value="12.800000" />
           <fMaxBankAngle value="43.000000" />
           <fFullAnimAngle value="38.000000" />
-          <fDesLeanReturnFrac value="0.160000" />
+          <fDesLeanReturnFrac value="0.150000" />
           <fStickLeanMult value="1.700000" />
           <fBrakingStabilityMult value="-0.700000" />
           <fInAirSteerMult value="-0.500000" />
@@ -11189,8 +11189,8 @@
           <fLeanBakForceMult value="11.900000" />
           <fMaxBankAngle value="43.000000" />
           <fFullAnimAngle value="38.000000" />
-          <fDesLeanReturnFrac value="0.160000" />
-          <fStickLeanMult value="2.600000" />
+          <fDesLeanReturnFrac value="0.150000" />
+          <fStickLeanMult value="2.700000" />
           <fBrakingStabilityMult value="-1.000000" />
           <fInAirSteerMult value="-0.600000" />
           <fWheelieBalancePoint value="10.000000" />
@@ -11813,8 +11813,8 @@
           <fLeanBakForceMult value="11.500000" />
           <fMaxBankAngle value="43.000000" />
           <fFullAnimAngle value="38.000000" />
-          <fDesLeanReturnFrac value="0.160000" />
-          <fStickLeanMult value="2.402250000" />
+          <fDesLeanReturnFrac value="0.150000" />
+          <fStickLeanMult value="2.602250000" />
           <fBrakingStabilityMult value="-1.000000" />
           <fInAirSteerMult value="-2.500000" />
           <fWheelieBalancePoint value="10.000000" />
@@ -12392,10 +12392,10 @@
       <fClutchChangeRateScaleUpShift value="2.000000" />
       <fClutchChangeRateScaleDownShift value="2.000000" />
       <fInitialDriveMaxFlatVel value="140.000000" />
-      <fBrakeForce value="0.440000" />
+      <fBrakeForce value="0.340000" />
       <fBrakeBiasFront value="0.600000" />
       <fHandBrakeForce value="1.350000" />
-      <fSteeringLock value="15.500000" />
+      <fSteeringLock value="14.000000" />
       <fTractionCurveMax value="1.950000" />
       <fTractionCurveMin value="1.850000" />
       <fTractionCurveLateral value="22.500000" />
