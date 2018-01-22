@@ -3570,32 +3570,32 @@
             0 
           </WeaponSeats>
           <fTurretSpeed content="float_array">
-            3.000000	
-            0.000000	
+            3.000000  
+            0.000000  
           </fTurretSpeed>
           <fTurretPitchMin content="float_array">
-            -0.400000	
-            0.000000	
+            -0.400000 
+            0.000000  
           </fTurretPitchMin>
           <fTurretPitchMax content="float_array">
-            0.707000	
-            0.000000	
+            0.707000  
+            0.000000  
           </fTurretPitchMax>
           <fTurretCamPitchMin content="float_array">
-            -0.500000	
-            0.000000	
+            -0.500000 
+            0.000000  
           </fTurretCamPitchMin>
           <fTurretCamPitchMax content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretCamPitchMax>
           <fBulletVelocityForGravity content="float_array">
-            25.000000	
-            0.000000	
+            25.000000 
+            0.000000  
           </fBulletVelocityForGravity>
           <fTurretPitchForwardMin content="float_array">
-            -0.080000	
-            0.000000	
+            -0.080000 
+            0.000000  
           </fTurretPitchForwardMin>
           <fUvAnimationMult value="0.000000" />
           <fMiscGadgetVar value="0.000000" />
@@ -10508,16 +10508,16 @@
     <Item type="CHandlingData">
       <handlingName>THRUST</handlingName>
       <fMass value="270.000000" />
-      <fInitialDragCoeff value="6.580000" />
+      <fInitialDragCoeff value="2.000000" />
       <fPercentSubmerged value="95.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.0" />
       <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.100000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.26500" />
-      <fDriveInertia value="1.000000" />
-      <fClutchChangeRateScaleUpShift value="2.300000" />
-      <fClutchChangeRateScaleDownShift value="2.300000" />
+      <fDriveInertia value="1.300000" />
+      <fClutchChangeRateScaleUpShift value="8.000000" />
+      <fClutchChangeRateScaleDownShift value="6.000000" />
       <fInitialDriveMaxFlatVel value="152.000000" />
       <fBrakeForce value="0.480000" />
       <fBrakeBiasFront value="0.730000" />
@@ -10585,7 +10585,7 @@
     </Item>
     <Item type="CHandlingData">
       <handlingName>MANCHEZ</handlingName>
-      <fMass value="190.000000" />
+      <fMass value="225.000000" />
       <fInitialDragCoeff value="10.275000" />
       <fPercentSubmerged value="95.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.00000" z="-0.150000" />
@@ -10593,9 +10593,9 @@
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.295000" />
-      <fDriveInertia value="1.000000" />
-      <fClutchChangeRateScaleUpShift value="3.000000" />
-      <fClutchChangeRateScaleDownShift value="3.000000" />
+      <fDriveInertia value="1.300000" />
+      <fClutchChangeRateScaleUpShift value="2.500000" />
+      <fClutchChangeRateScaleDownShift value="2.500000" />
       <fInitialDriveMaxFlatVel value="145.000000" />
       <fBrakeForce value="0.500000" />
       <fBrakeBiasFront value="0.600000" />
@@ -10664,14 +10664,14 @@
     <Item type="CHandlingData">
       <handlingName>SANCTUS</handlingName>
       <fMass value="250.000000" />
-      <fInitialDragCoeff value="14.00000" />
+      <fInitialDragCoeff value="8.10000" />
       <fPercentSubmerged value="95.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.140000" z="-0.250000" />
       <vecInertiaMultiplier x="1.000000" y="1.400000" z="1.400000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.405000" />
-      <fDriveInertia value="1.000000" />
+      <fDriveInertia value="1.220000" />
       <fClutchChangeRateScaleUpShift value="1.300000" />
       <fClutchChangeRateScaleDownShift value="1.300000" />
       <fInitialDriveMaxFlatVel value="144.000000" />
@@ -10742,14 +10742,14 @@
     <Item type="CHandlingData">
       <handlingName>INNOVAT</handlingName>
       <fMass value="250.000000" />
-      <fInitialDragCoeff value="9.500000" />
+      <fInitialDragCoeff value="5.670000" />
       <fPercentSubmerged value="95.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.1000000" z="-0.050000" />
       <vecInertiaMultiplier x="1.000000" y="1.400000" z="1.600000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="4" />
       <fInitialDriveForce value="0.320000" />
-      <fDriveInertia value="1.000000" />
+      <fDriveInertia value="1.300000" />
       <fClutchChangeRateScaleUpShift value="1.300000" />
       <fClutchChangeRateScaleDownShift value="1.300000" />
       <fInitialDriveMaxFlatVel value="135.000000" />
@@ -10827,9 +10827,9 @@
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="4" />
       <fInitialDriveForce value="0.300000" />
-      <fDriveInertia value="1.000000" />
-      <fClutchChangeRateScaleUpShift value="3.000000" />
-      <fClutchChangeRateScaleDownShift value="3.000000" />
+      <fDriveInertia value="1.390000" />
+      <fClutchChangeRateScaleUpShift value="2.000000" />
+      <fClutchChangeRateScaleDownShift value="2.000000" />
       <fInitialDriveMaxFlatVel value="119.000000" />
       <fBrakeForce value="0.330000" />
       <fBrakeBiasFront value="0.720000" />
@@ -10899,16 +10899,16 @@
     <Item type="CHandlingData">
       <handlingName>VINDICATOR</handlingName>
       <fMass value="280.000000" />
-      <fInitialDragCoeff value="6.000000" />
+      <fInitialDragCoeff value="2.850000" />
       <fPercentSubmerged value="95.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.0" />
       <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.100000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.26300" />
-      <fDriveInertia value="1.000000" />
-      <fClutchChangeRateScaleUpShift value="2.300000" />
-      <fClutchChangeRateScaleDownShift value="2.300000" />
+      <fDriveInertia value="1.300000" />
+      <fClutchChangeRateScaleUpShift value="4.900000" />
+      <fClutchChangeRateScaleDownShift value="6.000000" />
       <fInitialDriveMaxFlatVel value="148.000000" />
       <fBrakeForce value="0.390000" />
       <fBrakeBiasFront value="0.730000" />
@@ -10977,16 +10977,16 @@
     <Item type="CHandlingData">
       <handlingName>AKUMA</handlingName>
       <fMass value="250.000000" />
-      <fInitialDragCoeff value="10.000000" />
+      <fInitialDragCoeff value="4.000000" />
       <fPercentSubmerged value="95.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.150000" />
       <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.400000" />
-      <fDriveInertia value="1.000000" />
-      <fClutchChangeRateScaleUpShift value="2.000000" />
-      <fClutchChangeRateScaleDownShift value="2.000000" />
+      <fDriveInertia value="1.250000" />
+      <fClutchChangeRateScaleUpShift value="1.800000" />
+      <fClutchChangeRateScaleDownShift value="1.600000" />
       <fInitialDriveMaxFlatVel value="145.000000" />
       <fBrakeForce value="0.410000" />
       <fBrakeBiasFront value="0.720000" />
@@ -11133,36 +11133,36 @@
     <Item type="CHandlingData">
       <handlingName>BATI</handlingName>
       <fMass value="230.000000" />
-      <fInitialDragCoeff value="8.000000" />
+      <fInitialDragCoeff value="5.590000" />
       <fPercentSubmerged value="95.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.010000" z="-0.100000" />
       <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.300000" />
-      <fDriveInertia value="1.000000" />
-      <fClutchChangeRateScaleUpShift value="2.000000" />
-      <fClutchChangeRateScaleDownShift value="3.000000" />
+      <fDriveInertia value="1.119000" />
+      <fClutchChangeRateScaleUpShift value="1.900000" />
+      <fClutchChangeRateScaleDownShift value="1.800000" />
       <fInitialDriveMaxFlatVel value="150.000000" />
       <fBrakeForce value="0.497000" />
       <fBrakeBiasFront value="0.770000" />
       <fHandBrakeForce value="1.650000" />
       <fSteeringLock value="13.050000" />
-      <fTractionCurveMax value="2.320000" />
-      <fTractionCurveMin value="2.310000" />
+      <fTractionCurveMax value="1.260000" />
+      <fTractionCurveMin value="1.090000" />
       <fTractionCurveLateral value="22.500000" />
-      <fTractionSpringDeltaMax value="0.060000" />
-      <fLowSpeedTractionLossMult value="0.440000" />
-      <fCamberStiffnesss value="1.100000" />
+      <fTractionSpringDeltaMax value="0.050000" />
+      <fLowSpeedTractionLossMult value="0.010000" />
+      <fCamberStiffnesss value="0.700000" />
       <fTractionBiasFront value="0.450000" />
       <fTractionLossMult value="1.140000" />
-      <fSuspensionForce value="7.500000" />
-      <fSuspensionCompDamp value="2.56000" />
-      <fSuspensionReboundDamp value="5.130000" />
-      <fSuspensionUpperLimit value="0.200000" />
-      <fSuspensionLowerLimit value="-0.160000" />
+      <fSuspensionForce value="7.800000" />
+      <fSuspensionCompDamp value="2.300000" />
+      <fSuspensionReboundDamp value="0.800000" />
+      <fSuspensionUpperLimit value="0.130000" />
+      <fSuspensionLowerLimit value="-0.040000" />
       <fSuspensionRaise value="0.000000" />
-      <fSuspensionBiasFront value="0.490000" />
+      <fSuspensionBiasFront value="0.530000" />
       <fAntiRollBarForce value="0.000000" />
       <fAntiRollBarBiasFront value="0.000000" />
       <fRollCentreHeightFront value="0.200000" />
@@ -11757,16 +11757,16 @@
     <Item type="CHandlingData">
       <handlingName>DOUBLE</handlingName>
       <fMass value="200.000000" />
-      <fInitialDragCoeff value="9.000000" />
+      <fInitialDragCoeff value="2.750000" />
       <fPercentSubmerged value="95.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.000000" />
       <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
-      <fInitialDriveForce value="0.310000" />
-      <fDriveInertia value="1.000000" />
-      <fClutchChangeRateScaleUpShift value="2.000000" />
-      <fClutchChangeRateScaleDownShift value="3.000000" />
+      <fInitialDriveForce value="0.400000" />
+      <fDriveInertia value="1.300000" />
+      <fClutchChangeRateScaleUpShift value="1.800000" />
+      <fClutchChangeRateScaleDownShift value="1.600000" />
       <fInitialDriveMaxFlatVel value="147.000000" />
       <fBrakeForce value="0.551500" />
       <fBrakeBiasFront value="0.720000" />
@@ -11991,16 +11991,16 @@
     <Item type="CHandlingData">
       <handlingName>NEMESIS</handlingName>
       <fMass value="250.000000" />
-      <fInitialDragCoeff value="10.000000" />
+      <fInitialDragCoeff value="3.720000" />
       <fPercentSubmerged value="95.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.150000" />
       <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.300000" />
-      <fDriveInertia value="1.000000" />
-      <fClutchChangeRateScaleUpShift value="2.000000" />
-      <fClutchChangeRateScaleDownShift value="2.000000" />
+      <fDriveInertia value="1.300000" />
+      <fClutchChangeRateScaleUpShift value="1.900000" />
+      <fClutchChangeRateScaleDownShift value="1.800000" />
       <fInitialDriveMaxFlatVel value="140.000000" />
       <fBrakeForce value="0.455000" />
       <fBrakeBiasFront value="0.750000" />
@@ -12069,16 +12069,16 @@
     <Item type="CHandlingData">
       <handlingName>HAKUCHOU</handlingName>
       <fMass value="250.000000" />
-      <fInitialDragCoeff value="8.500000" />
+      <fInitialDragCoeff value="5.520000" />
       <fPercentSubmerged value="95.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.010000" z="-0.100000" />
       <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.315000" />
-      <fDriveInertia value="1.000000" />
-      <fClutchChangeRateScaleUpShift value="2.000000" />
-      <fClutchChangeRateScaleDownShift value="3.000000" />
+      <fDriveInertia value="1.300000" />
+      <fClutchChangeRateScaleUpShift value="1.800000" />
+      <fClutchChangeRateScaleDownShift value="1.700000" />
       <fInitialDriveMaxFlatVel value="152.000000" />
       <fBrakeForce value="0.360000" />
       <fBrakeBiasFront value="0.750000" />
@@ -12147,16 +12147,16 @@
     <Item type="CHandlingData">
       <handlingName>HAKUCHOU2</handlingName>
       <fMass value="270.000000" />
-      <fInitialDragCoeff value="11.500000" />
+      <fInitialDragCoeff value="2.852000" />
       <fPercentSubmerged value="95.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.05000" z="-0.100000" />
       <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.425000" />
-      <fDriveInertia value="1.000000" />
-      <fClutchChangeRateScaleUpShift value="6.000000" />
-      <fClutchChangeRateScaleDownShift value="3.000000" />
+      <fDriveInertia value="1.290000" />
+      <fClutchChangeRateScaleUpShift value="2.000000" />
+      <fClutchChangeRateScaleDownShift value="1.800000" />
       <fInitialDriveMaxFlatVel value="159.000000" />
       <fBrakeForce value="0.430000" />
       <fBrakeBiasFront value="0.750000" />
@@ -12225,16 +12225,16 @@
     <Item type="CHandlingData">
       <handlingName>DEFILER</handlingName>
       <fMass value="200.000000" />
-      <fInitialDragCoeff value="12.500000" />
+      <fInitialDragCoeff value="4.960000" />
       <fPercentSubmerged value="95.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.150000" />
       <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
-      <fInitialDriveForce value="0.4050000" />
-      <fDriveInertia value="1.000000" />
-      <fClutchChangeRateScaleUpShift value="2.000000" />
-      <fClutchChangeRateScaleDownShift value="2.000000" />
+      <fInitialDriveForce value="0.320000" />
+      <fDriveInertia value="1.300000" />
+      <fClutchChangeRateScaleUpShift value="1.800000" />
+      <fClutchChangeRateScaleDownShift value="1.700000" />
       <fInitialDriveMaxFlatVel value="148.000000" />
       <fBrakeForce value="0.495000" />
       <fBrakeBiasFront value="0.750000" />
@@ -12303,16 +12303,16 @@
     <Item type="CHandlingData">
       <handlingName>PCJ</handlingName>
       <fMass value="250.000000" />
-      <fInitialDragCoeff value="11.000000" />
+      <fInitialDragCoeff value="3.310000" />
       <fPercentSubmerged value="95.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.010000" z="-0.150000" />
       <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.100000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.260000" />
-      <fDriveInertia value="1.000000" />
-      <fClutchChangeRateScaleUpShift value="2.000000" />
-      <fClutchChangeRateScaleDownShift value="2.000000" />
+      <fDriveInertia value="1.300000" />
+      <fClutchChangeRateScaleUpShift value="1.700000" />
+      <fClutchChangeRateScaleDownShift value="1.500000" />
       <fInitialDriveMaxFlatVel value="130.000000" />
       <fBrakeForce value="0.255000" />
       <fBrakeBiasFront value="0.750000" />
@@ -12389,8 +12389,8 @@
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.340000" />
       <fDriveInertia value="1.000000" />
-      <fClutchChangeRateScaleUpShift value="2.000000" />
-      <fClutchChangeRateScaleDownShift value="2.000000" />
+      <fClutchChangeRateScaleUpShift value="1.900000" />
+      <fClutchChangeRateScaleDownShift value="1.700000" />
       <fInitialDriveMaxFlatVel value="140.000000" />
       <fBrakeForce value="0.340000" />
       <fBrakeBiasFront value="0.750000" />
@@ -12537,17 +12537,17 @@
     <Item type="CHandlingData">
       <handlingName>VORTEX</handlingName>
       <fMass value="190.000000" />
-      <fInitialDragCoeff value="12.400000" />
+      <fInitialDragCoeff value="6.650000" />
       <fPercentSubmerged value="95.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.150000" />
       <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
-      <fInitialDriveForce value="0.4025000" />
-      <fDriveInertia value="1.000000" />
-      <fClutchChangeRateScaleUpShift value="2.000000" />
-      <fClutchChangeRateScaleDownShift value="2.000000" />
-      <fInitialDriveMaxFlatVel value="148.000000" />
+      <fInitialDriveForce value="0.450000" />
+      <fDriveInertia value="1.300000" />
+      <fClutchChangeRateScaleUpShift value="1.900000" />
+      <fClutchChangeRateScaleDownShift value="1.700000" />
+      <fInitialDriveMaxFlatVel value="132.000000" />
       <fBrakeForce value="0.411000" />
       <fBrakeBiasFront value="0.730000" />
       <fHandBrakeForce value="1.300000" />
@@ -12615,16 +12615,16 @@
     <Item type="CHandlingData">
       <handlingName>LECTRO</handlingName>
       <fMass value="250.000000" />
-      <fInitialDragCoeff value="10.000000" />
+      <fInitialDragCoeff value="4.150000" />
       <fPercentSubmerged value="95.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.150000" />
       <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="5" />
       <fInitialDriveForce value="0.280000" />
-      <fDriveInertia value="1.000000" />
-      <fClutchChangeRateScaleUpShift value="2.000000" />
-      <fClutchChangeRateScaleDownShift value="2.000000" />
+      <fDriveInertia value="1.300000" />
+      <fClutchChangeRateScaleUpShift value="1.900000" />
+      <fClutchChangeRateScaleDownShift value="1.800000" />
       <fInitialDriveMaxFlatVel value="140.000000" />
       <fBrakeForce value="0.540000" />
       <fBrakeBiasFront value="0.750000" />
@@ -14102,32 +14102,32 @@
             0 
           </WeaponSeats>
           <fTurretSpeed content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretSpeed>
           <fTurretPitchMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchMin>
           <fTurretPitchMax content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchMax>
           <fTurretCamPitchMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretCamPitchMin>
           <fTurretCamPitchMax content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretCamPitchMax>
           <fBulletVelocityForGravity content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fBulletVelocityForGravity>
           <fTurretPitchForwardMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchForwardMin>
           <fUvAnimationMult value="0.000000" />
           <fMiscGadgetVar value="0.000000" />
@@ -14508,32 +14508,32 @@
             0 
           </WeaponSeats>
           <fTurretSpeed content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretSpeed>
           <fTurretPitchMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchMin>
           <fTurretPitchMax content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchMax>
           <fTurretCamPitchMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretCamPitchMin>
           <fTurretCamPitchMax content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretCamPitchMax>
           <fBulletVelocityForGravity content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fBulletVelocityForGravity>
           <fTurretPitchForwardMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchForwardMin>
           <fUvAnimationMult value="0.000000" />
           <fMiscGadgetVar value="0.000000" />
@@ -14641,32 +14641,32 @@
             0 
           </WeaponSeats>
           <fTurretSpeed content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretSpeed>
           <fTurretPitchMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchMin>
           <fTurretPitchMax content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchMax>
           <fTurretCamPitchMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretCamPitchMin>
           <fTurretCamPitchMax content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretCamPitchMax>
           <fBulletVelocityForGravity content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fBulletVelocityForGravity>
           <fTurretPitchForwardMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchForwardMin>
           <fUvAnimationMult value="0.000000" />
           <fMiscGadgetVar value="0.000000" />
@@ -16097,32 +16097,32 @@
             0 
           </WeaponSeats>
           <fTurretSpeed content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretSpeed>
           <fTurretPitchMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchMin>
           <fTurretPitchMax content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchMax>
           <fTurretCamPitchMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretCamPitchMin>
           <fTurretCamPitchMax content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretCamPitchMax>
           <fBulletVelocityForGravity content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fBulletVelocityForGravity>
           <fTurretPitchForwardMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchForwardMin>
           <fUvAnimationMult value="0.660000" />
           <fMiscGadgetVar value="1.500000" />
@@ -16310,32 +16310,32 @@
             0 
           </WeaponSeats>
           <fTurretSpeed content="float_array">
-            5.000000	
-            0.000000	
+            5.000000  
+            0.000000  
           </fTurretSpeed>
           <fTurretPitchMin content="float_array">
-            -0.050000	
-            0.000000	
+            -0.050000 
+            0.000000  
           </fTurretPitchMin>
           <fTurretPitchMax content="float_array">
-            0.707000	
-            0.000000	
+            0.707000  
+            0.000000  
           </fTurretPitchMax>
           <fTurretCamPitchMin content="float_array">
-            -0.707000	
-            0.000000	
+            -0.707000 
+            0.000000  
           </fTurretCamPitchMin>
           <fTurretCamPitchMax content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretCamPitchMax>
           <fBulletVelocityForGravity content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fBulletVelocityForGravity>
           <fTurretPitchForwardMin content="float_array">
-            -0.160000	
-            0.000000	
+            -0.160000 
+            0.000000  
           </fTurretPitchForwardMin>
           <fUvAnimationMult value="0.660000" />
           <fMiscGadgetVar value="1.500000" />
@@ -16344,7 +16344,7 @@
         <Item type="NULL" />
         <Item type="NULL" />
       </SubHandlingData>
-	  <fWeaponDamageScaledToVehHealthMult value="0.340000" />
+    <fWeaponDamageScaledToVehHealthMult value="0.340000" />
     </Item>
     <Item type="CHandlingData">
       <handlingName>SUBMERSIBLE</handlingName>
@@ -16505,32 +16505,32 @@
             0 
           </WeaponSeats>
           <fTurretSpeed content="float_array">
-            1.000000	
-            0.000000	
+            1.000000  
+            0.000000  
           </fTurretSpeed>
           <fTurretPitchMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchMin>
           <fTurretPitchMax content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchMax>
           <fTurretCamPitchMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretCamPitchMin>
           <fTurretCamPitchMax content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretCamPitchMax>
           <fBulletVelocityForGravity content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fBulletVelocityForGravity>
           <fTurretPitchForwardMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchForwardMin>
           <fUvAnimationMult value="0.000000" />
           <fMiscGadgetVar value="0.000000" />
@@ -16631,32 +16631,32 @@
             0 
           </WeaponSeats>
           <fTurretSpeed content="float_array">
-            1.000000	
-            0.000000	
+            1.000000  
+            0.000000  
           </fTurretSpeed>
           <fTurretPitchMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchMin>
           <fTurretPitchMax content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchMax>
           <fTurretCamPitchMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretCamPitchMin>
           <fTurretCamPitchMax content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretCamPitchMax>
           <fBulletVelocityForGravity content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fBulletVelocityForGravity>
           <fTurretPitchForwardMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchForwardMin>
           <fUvAnimationMult value="0.000000" />
           <fMiscGadgetVar value="0.000000" />
@@ -16841,32 +16841,32 @@
             0 
           </WeaponSeats>
           <fTurretSpeed content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretSpeed>
           <fTurretPitchMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchMin>
           <fTurretPitchMax content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchMax>
           <fTurretCamPitchMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretCamPitchMin>
           <fTurretCamPitchMax content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretCamPitchMax>
           <fBulletVelocityForGravity content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fBulletVelocityForGravity>
           <fTurretPitchForwardMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchForwardMin>
           <fUvAnimationMult value="0.000000" />
           <fMiscGadgetVar value="0.000000" />
@@ -16954,7 +16954,7 @@
           <fImpellerForceMult value="0.100000" />
           <fDinghySphereBuoyConst value="0.000000" />
           <fProwRaiseMult value="0.400000" />
-	  <fDeepWaterSampleBuoyancyMult value="5.0" />
+    <fDeepWaterSampleBuoyancyMult value="5.0" />
         </Item>
         <Item type="NULL" />
         <Item type="NULL" />
@@ -17039,7 +17039,7 @@
           <fImpellerForceMult value="0.000000" />
           <fDinghySphereBuoyConst value="0.000000" />
           <fProwRaiseMult value="0.300000" />
-	  <fDeepWaterSampleBuoyancyMult value="5.0" />
+    <fDeepWaterSampleBuoyancyMult value="5.0" />
         </Item>
         <Item type="NULL" />
         <Item type="NULL" />
@@ -17313,7 +17313,7 @@
           <fImpellerForceMult value="0.000000" />
           <fDinghySphereBuoyConst value="0.000000" />
           <fProwRaiseMult value="0.400000" />
-	  <fDeepWaterSampleBuoyancyMult value="5.0" />
+    <fDeepWaterSampleBuoyancyMult value="5.0" />
         </Item>
         <Item type="NULL" />
         <Item type="NULL" />
@@ -17418,32 +17418,32 @@
             0 
           </WeaponSeats>
           <fTurretSpeed content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretSpeed>
           <fTurretPitchMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchMin>
           <fTurretPitchMax content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchMax>
           <fTurretCamPitchMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretCamPitchMin>
           <fTurretCamPitchMax content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretCamPitchMax>
           <fBulletVelocityForGravity content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fBulletVelocityForGravity>
           <fTurretPitchForwardMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchForwardMin>
           <fUvAnimationMult value="0.000000" />
           <fMiscGadgetVar value="0.000000" />
@@ -17551,32 +17551,32 @@
             0 
           </WeaponSeats>
           <fTurretSpeed content="float_array">
-            1.000000	
-            0.000000	
+            1.000000  
+            0.000000  
           </fTurretSpeed>
           <fTurretPitchMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchMin>
           <fTurretPitchMax content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchMax>
           <fTurretCamPitchMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretCamPitchMin>
           <fTurretCamPitchMax content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretCamPitchMax>
           <fBulletVelocityForGravity content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fBulletVelocityForGravity>
           <fTurretPitchForwardMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchForwardMin>
           <fUvAnimationMult value="0.000000" />
           <fMiscGadgetVar value="0.000000" />
@@ -17684,32 +17684,32 @@
             0 
           </WeaponSeats>
           <fTurretSpeed content="float_array">
-            1.000000	
-            0.000000	
+            1.000000  
+            0.000000  
           </fTurretSpeed>
           <fTurretPitchMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchMin>
           <fTurretPitchMax content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchMax>
           <fTurretCamPitchMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretCamPitchMin>
           <fTurretCamPitchMax content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretCamPitchMax>
           <fBulletVelocityForGravity content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fBulletVelocityForGravity>
           <fTurretPitchForwardMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchForwardMin>
           <fUvAnimationMult value="0.000000" />
           <fMiscGadgetVar value="0.000000" />
@@ -17803,7 +17803,7 @@
           <fOnGroundYawBoostSpeedPeak value="1.000000" />
           <fOnGroundYawBoostSpeedCap value="1.000000" />
           <fEngineOffGlideMulti value="1.000000" />
-	  <fSubmergeLevelToPullHeliUnderwater value="0.01" />
+    <fSubmergeLevelToPullHeliUnderwater value="0.01" />
           <handlingType>HANDLING_TYPE_FLYING</handlingType>
         </Item>
         <Item type="NULL" />
@@ -17895,7 +17895,7 @@
           <fOnGroundYawBoostSpeedPeak value="1.000000" />
           <fOnGroundYawBoostSpeedCap value="1.000000" />
           <fEngineOffGlideMulti value="1.000000" />
-	  <fSubmergeLevelToPullHeliUnderwater value="0.01" />
+    <fSubmergeLevelToPullHeliUnderwater value="0.01" />
           <handlingType>HANDLING_TYPE_FLYING</handlingType>
         </Item>
         <Item type="CVehicleWeaponHandlingData">
@@ -17910,32 +17910,32 @@
             0 
           </WeaponSeats>
           <fTurretSpeed content="float_array">
-            1.000000	
-            0.000000	
+            1.000000  
+            0.000000  
           </fTurretSpeed>
           <fTurretPitchMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchMin>
           <fTurretPitchMax content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchMax>
           <fTurretCamPitchMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretCamPitchMin>
           <fTurretCamPitchMax content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretCamPitchMax>
           <fBulletVelocityForGravity content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fBulletVelocityForGravity>
           <fTurretPitchForwardMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchForwardMin>
           <fUvAnimationMult value="0.000000" />
           <fMiscGadgetVar value="0.000000" />
@@ -18029,7 +18029,7 @@
           <fOnGroundYawBoostSpeedPeak value="1.000000" />
           <fOnGroundYawBoostSpeedCap value="1.000000" />
           <fEngineOffGlideMulti value="1.000000" />
-	  <fSubmergeLevelToPullHeliUnderwater value="0.01" />
+    <fSubmergeLevelToPullHeliUnderwater value="0.01" />
           <handlingType>HANDLING_TYPE_FLYING</handlingType>
         </Item>
         <Item type="CVehicleWeaponHandlingData">
@@ -18044,32 +18044,32 @@
             0 
           </WeaponSeats>
           <fTurretSpeed content="float_array">
-            1.000000	
-            0.000000	
+            1.000000  
+            0.000000  
           </fTurretSpeed>
           <fTurretPitchMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchMin>
           <fTurretPitchMax content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchMax>
           <fTurretCamPitchMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretCamPitchMin>
           <fTurretCamPitchMax content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretCamPitchMax>
           <fBulletVelocityForGravity content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fBulletVelocityForGravity>
           <fTurretPitchForwardMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchForwardMin>
           <fUvAnimationMult value="0.000000" />
           <fMiscGadgetVar value="0.000000" />
@@ -18163,7 +18163,7 @@
           <fOnGroundYawBoostSpeedPeak value="1.000000" />
           <fOnGroundYawBoostSpeedCap value="1.000000" />
           <fEngineOffGlideMulti value="1.000000" />
-	  <fSubmergeLevelToPullHeliUnderwater value="0.01" />
+    <fSubmergeLevelToPullHeliUnderwater value="0.01" />
           <handlingType>HANDLING_TYPE_FLYING</handlingType>
         </Item>
         <Item type="CVehicleWeaponHandlingData">
@@ -18178,32 +18178,32 @@
             0 
           </WeaponSeats>
           <fTurretSpeed content="float_array">
-            1.000000	
-            0.000000	
+            1.000000  
+            0.000000  
           </fTurretSpeed>
           <fTurretPitchMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchMin>
           <fTurretPitchMax content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchMax>
           <fTurretCamPitchMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretCamPitchMin>
           <fTurretCamPitchMax content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretCamPitchMax>
           <fBulletVelocityForGravity content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fBulletVelocityForGravity>
           <fTurretPitchForwardMin content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretPitchForwardMin>
           <fUvAnimationMult value="0.000000" />
           <fMiscGadgetVar value="0.000000" />
@@ -18394,7 +18394,7 @@
         <Item type="NULL" />
       </SubHandlingData>
     </Item>
-	  <Item type="CHandlingData">
+    <Item type="CHandlingData">
       <handlingName>STALION</handlingName>
       <fMass value="1650.000000" />
       <fInitialDragCoeff value="9.500000" />
@@ -18534,7 +18534,7 @@
           <fImpellerForceMult value="0.100000" />
           <fDinghySphereBuoyConst value="0.000000" />
           <fProwRaiseMult value="0.200000" />
-	  <fDeepWaterSampleBuoyancyMult value="5.0" />
+    <fDeepWaterSampleBuoyancyMult value="5.0" />
         </Item>
         <Item type="NULL" />
         <Item type="NULL" />
@@ -18601,7 +18601,7 @@
         <Item type="NULL" />
       </SubHandlingData>
     </Item>
-	<Item type="CHandlingData">
+  <Item type="CHandlingData">
       <handlingName>INSURGENT</handlingName>
       <fMass value="8600.000000" />
       <fInitialDragCoeff value="13.000000" />
@@ -18653,7 +18653,7 @@
       <strDamageFlags>0</strDamageFlags>
       <AIHandling>AVERAGE</AIHandling>
       <SubHandlingData>
-		<Item type="CVehicleWeaponHandlingData">
+    <Item type="CVehicleWeaponHandlingData">
           <uWeaponHash>
             <Item>VEHICLE_WEAPON_TURRET_INSURGENT</Item>
             <Item />
@@ -18665,32 +18665,32 @@
             0 
           </WeaponSeats>
           <fTurretSpeed content="float_array">
-            10.000000	
-            0.000000	
+            10.000000 
+            0.000000  
           </fTurretSpeed>
           <fTurretPitchMin content="float_array">
             -1.000000
-            0.000000	
+            0.000000  
           </fTurretPitchMin>
           <fTurretPitchMax content="float_array">
-            0.707000	
-            0.000000	
+            0.707000  
+            0.000000  
           </fTurretPitchMax>
           <fTurretCamPitchMin content="float_array">
-            -0.500000	
-            0.000000	
+            -0.500000 
+            0.000000  
           </fTurretCamPitchMin>
           <fTurretCamPitchMax content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretCamPitchMax>
           <fBulletVelocityForGravity content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fBulletVelocityForGravity>
           <fTurretPitchForwardMin content="float_array">
-           -1.000000	
-            0.000000	
+           -1.000000  
+            0.000000  
           </fTurretPitchForwardMin>
           <fUvAnimationMult value="0.000000" />
           <fMiscGadgetVar value="0.000000" />
@@ -18700,7 +18700,7 @@
         <Item type="NULL" />
       </SubHandlingData>
     </Item>
-	<Item type="CHandlingData">
+  <Item type="CHandlingData">
       <handlingName>INSURGENT2</handlingName>
       <fMass value="8600.000000" />
       <fInitialDragCoeff value="13.000000" />
@@ -18752,7 +18752,7 @@
       <strDamageFlags>0</strDamageFlags>
       <AIHandling>AVERAGE</AIHandling>
       <SubHandlingData>
-		<Item type="CVehicleWeaponHandlingData">
+    <Item type="CVehicleWeaponHandlingData">
           <uWeaponHash>
             <Item>VEHICLE_WEAPON_TURRET_INSURGENT</Item>
             <Item />
@@ -18764,32 +18764,32 @@
             0 
           </WeaponSeats>
           <fTurretSpeed content="float_array">
-            10.000000	
-            0.000000	
+            10.000000 
+            0.000000  
           </fTurretSpeed>
           <fTurretPitchMin content="float_array">
             -1.000000
-            0.000000	
+            0.000000  
           </fTurretPitchMin>
           <fTurretPitchMax content="float_array">
-            0.707000	
-            0.000000	
+            0.707000  
+            0.000000  
           </fTurretPitchMax>
           <fTurretCamPitchMin content="float_array">
-            -0.500000	
-            0.000000	
+            -0.500000 
+            0.000000  
           </fTurretCamPitchMin>
           <fTurretCamPitchMax content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fTurretCamPitchMax>
           <fBulletVelocityForGravity content="float_array">
-            0.000000	
-            0.000000	
+            0.000000  
+            0.000000  
           </fBulletVelocityForGravity>
           <fTurretPitchForwardMin content="float_array">
-            -0.080000	
-            0.000000	
+            -0.080000 
+            0.000000  
           </fTurretPitchForwardMin>
           <fUvAnimationMult value="0.000000" />
           <fMiscGadgetVar value="0.000000" />
