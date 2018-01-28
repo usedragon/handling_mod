@@ -29,6 +29,7 @@ end
 Citizen.CreateThread(function()
     while true do
         Citizen.Wait(0)
+		DrawMissionText2("Handling Version: ~g~0.0.5~s~")
 	end
 end)
 
